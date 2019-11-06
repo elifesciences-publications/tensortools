@@ -23,3 +23,6 @@ pip install git+https://github.com/ahwillia/tensortools
 ```
 
 (You will need to have `git` installed for this command to work.)
+
+
+### This code is associated with the paper from Constantinople et al., "Lateral orbitofrontal cortex promotes trial-by-trial learning of risky, but not spatial, biases". eLife, 2019. http://dx.doi.org/10.7554/eLife.49744
